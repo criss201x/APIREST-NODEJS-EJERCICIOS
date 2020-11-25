@@ -1,0 +1,18 @@
+{
+  "name": "practica",
+  "version": "1.0.0",
+  "description": "estos son ejercicios de practica con express ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "nodemon --watch index.js"    
+  },
+  "author": "cristian alape",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
